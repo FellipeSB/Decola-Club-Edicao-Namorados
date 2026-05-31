@@ -1,0 +1,6 @@
+{
+  "name": "Decola Club",
+  "description": "Landing page de vendas moderna e premium para o Decola Club - o clube de artes prontas para personalizados, sublimação, canecas, laser e cestas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
